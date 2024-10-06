@@ -36,8 +36,7 @@ EDA involved the exploring of the Data to answer some questions about the Data s
 - Which product are top sellers
 - What are the products on peak sales
 
-
-  ### Data Analysis
+### Data Analysis
   ---
   This is where we include some basic lines of codes or queries or even some of the DAX expressions used during your analysis
 
@@ -45,3 +44,4 @@ EDA involved the exploring of the Data to answer some questions about the Data s
   SELECT * FROM EMPLOYEE
   WHERE SALARY = TRUE
   ```
+![Annotation 2024-10-06 140810](https://github.com/user-attachments/assets/548049c3-9f47-422a-ab28-f15f87d4a5f9)
