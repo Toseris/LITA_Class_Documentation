@@ -44,4 +44,6 @@ EDA involved the exploring of the Data to answer some questions about the Data s
   SELECT * FROM EMPLOYEE
   WHERE SALARY = TRUE
   ```
+### Data Visualization
+
 ![Annotation 2024-10-06 140810](https://github.com/user-attachments/assets/548049c3-9f47-422a-ab28-f15f87d4a5f9)
