@@ -1,7 +1,7 @@
 # LITA_Class_Documentation
 
 ### Project Title : E Commerce Sales Anaylsis
- [Project Overview] (#project-overview)
+ [Project Overview](#project-overview)
  
  [Data Sources](#data-sources)
  
