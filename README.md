@@ -1,7 +1,15 @@
 # LITA_Class_Documentation
 
 ### Project Title : E Commerce Sales Anaylsis
+ [Project Overview] (#project-overview)
+ [Data Sources](data-sources)
+ [Tools Used](tools-used)
+ [Data Cleaning and Preparations] (data-cleaning-and-preparations)
+ [Exploratory Data Analysis](exploratory-data-analysis)
+ [Data Analysis](data-analysis)
+ [Data Visualization](data-visualization)
 
+ 
 ### Project Overview
 ---
 This Data Analysis project aims to generate insight into the sales performance of the E commerce project over the past year
@@ -47,3 +55,4 @@ EDA involved the exploring of the Data to answer some questions about the Data s
 ### Data Visualization
 
 ![Annotation 2024-10-06 140810](https://github.com/user-attachments/assets/548049c3-9f47-422a-ab28-f15f87d4a5f9)
+
